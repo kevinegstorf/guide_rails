@@ -4305,3 +4305,36 @@ Started GET "/assets/turbolinks-c08bfaeb55ee6bfd7352e531a226fcb5.js?body=1" for 
 
 
 Started GET "/assets/application-a56c944ce08817d48c78ba0b17f49087.js?body=1" for ::1 at 2015-01-27 11:08:15 +0100
+
+
+Started GET "/static_pages/basic_commands" for ::1 at 2015-01-27 11:19:53 +0100
+Processing by StaticPagesController#basic_commands as HTML
+  Rendered static_pages/basic_commands.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 183ms (Views: 179.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-5feafad8e02b2b13c66575c2c2fac0ba.css?body=1" for ::1 at 2015-01-27 11:19:54 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-01-27 11:19:54 +0100
+
+
+Started GET "/assets/static_pages-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-01-27 11:19:54 +0100
+
+
+Started GET "/assets/application-553e433a73f02067f2b38e947376df06.css?body=1" for ::1 at 2015-01-27 11:19:54 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-01-27 11:19:54 +0100
+
+
+Started GET "/assets/turbolinks-c08bfaeb55ee6bfd7352e531a226fcb5.js?body=1" for ::1 at 2015-01-27 11:19:54 +0100
+
+
+Started GET "/assets/application-a56c944ce08817d48c78ba0b17f49087.js?body=1" for ::1 at 2015-01-27 11:19:54 +0100
+
+
+Started GET "/assets/static_pages-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-01-27 11:19:54 +0100
