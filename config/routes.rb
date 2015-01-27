@@ -1,8 +1,8 @@
 Rails.application.routes.draw do
   root                     'static_pages#home'
   get 'one_page_scroll' => 'static_pages#one_page_scroll'
-  get 'static_pages/basic_commands'
-  get 'static_pages/guide_rails'
+  get 'basic_commands' =>  'static_pages#basic_commands'
+  get 'guide_rails'   =>   'static_pages#guide_rails'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
